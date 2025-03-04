@@ -1,7 +1,16 @@
 
+body{
+
+
+}
 
 #wrapper{
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
+}
+
+header{
+    background: #fff;
+
 }
