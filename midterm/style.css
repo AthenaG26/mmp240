@@ -12,5 +12,8 @@ body{
 
 header{
     background: #000;
+}
 
+.banner-text{
+    color: #fff;
 }
