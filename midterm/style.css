@@ -19,4 +19,12 @@ header{
 
 .banner-text{
     color: #fff;
+    width: 40%;
+}
+
+.btn{
+    color: yellow;
+    background-color: #fff;
+    text-decoration: none;
+    padding: 1em;
 }
