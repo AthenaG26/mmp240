@@ -26,6 +26,7 @@ header{
     color: yellow;
     background-color: #fff;
     text-decoration: none;
-    padding: 1em;
+    padding: 0.5em 1em;
     border-radius: 10px;
+    display:inline-block
 }
