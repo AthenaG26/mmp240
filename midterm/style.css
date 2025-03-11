@@ -31,6 +31,10 @@ header{
     display:inline-block;
 }
 
+nav{
+    background-color: #E1DB6C;
+}
+
 nav li{
     display: inline;
     margin-right: 3em;
