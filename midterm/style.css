@@ -30,3 +30,8 @@ header{
     border-radius: 10px;
     display:inline-block;
 }
+
+nav li{
+    display: inline;
+    margin-right: 3em;
+}
