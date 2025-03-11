@@ -1,6 +1,6 @@
 
 body{
-background-color: #f6f3af;
+background-color: #fff;
 }
 
 #wrapper{
@@ -17,7 +17,7 @@ header{
 }
 
 .banner-text{
-    color: #fff;
+    color: #f6f2ba;
     width: 40%;
 }
 
