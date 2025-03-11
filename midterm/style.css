@@ -23,10 +23,10 @@ header{
 
 .btn{
     color: #FFF100;
+    font-weight: 300;
     background-color: #fff;
     text-decoration: none;
     padding: 0.5em 1em;
     border-radius: 10px;
     display:inline-block;
-    font-weight: 500;
 }
