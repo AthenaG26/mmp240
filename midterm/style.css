@@ -59,13 +59,10 @@ nav a:hover{
     background-color: rgb(170, 246, 245);
 }
 
-.col-left{
+.col{
     float: left;
     width: 48%;
-  }
-  .col-right{
-    float: right;
-    width: 48%;
+    margin-right: 4%;
   }
 
   footer{
