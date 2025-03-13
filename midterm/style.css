@@ -33,15 +33,21 @@ header{
 
 nav{
     background-color: #E1DB6C;
-    padding:0.5em 0;
 }
 
 nav li{
-    display: inline;
-    margin-right: 3em;
+    display: inline-block;
+
 }
 
 nav a{
+    display: inline-block;
     color:#fff;
+    padding: 0.5em 2em;
     text-decoration: none;
+
+}
+
+nav a:hover{
+    background-color: aqua;
 }
