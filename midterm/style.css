@@ -67,3 +67,7 @@ nav a:hover{
     float: right;
     width: 48%;
   }
+
+  footer{
+    clear: both;
+  }
