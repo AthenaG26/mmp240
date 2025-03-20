@@ -63,24 +63,24 @@ nav a:hover{
     float: left;
     width: 48%;
     margin-right: 4%;
-  }
+}
 
-  .col:last-child{
+.col:last-child{
     margin-right: 0;
-  }
+}
 
-  footer{
+footer{
     position: absolute;
     bottom:0%;
     clear: both;
-  }
+}
 
   .episodes{
     display:flex
     flex-direction:row;
     flex-wrap: wrap;
     justify-content:center;
-  }
+}
 
   .episode-card{
     width:270px;
@@ -88,7 +88,7 @@ nav a:hover{
     margin-bottom:30px;
     border:solid 1px #ddd;
     flex:1 1 auto;
-  }
+}
 
   /* .episode-card:last-child{
     margin-right:0;
@@ -96,8 +96,8 @@ nav a:hover{
 
   .episode-card img{
     width: 100%;
-  }
+}
 
   .episode-card p, .episode-card h4{
     margin:1em
-  }
+}
