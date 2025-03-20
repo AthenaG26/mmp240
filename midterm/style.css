@@ -74,3 +74,30 @@ nav a:hover{
     bottom:0%;
     clear: both;
   }
+
+  .episodes{
+    display:flex
+    flex-direction:row;
+    flex-wrap: wrap;
+
+  }
+
+  .episode-card{
+    width:270px;
+    margin-right:30px;
+    margin-bottom:30px;
+    border:solid 1px #ddd;
+    flex:1 1 auto;
+  }
+
+  /* .episode-card:last-child{
+    margin-right:0;
+  } */
+
+  .episode-card img{
+    width: 100%;
+  }
+
+  .episode-card p, .episode-card h4{
+    margin:1em
+  }
