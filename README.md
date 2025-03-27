@@ -15,6 +15,8 @@ https://athenag26.github.io/mmp240/exercise7/exercise7.html
 
 https://athenag26.github.io/mmp240/exercise8/exercise8.html
 
+https://athenag26.github.io/mmp240/exercise9/exercise9.html
+
 https://athenag26.github.io/mmp240/midterm/index.html
 
 https://athenag26.github.io/mmp240/quizzes/quiz1.html
