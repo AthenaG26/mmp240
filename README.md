@@ -22,3 +22,5 @@ https://athenag26.github.io/mmp240/midterm/index.html
 https://athenag26.github.io/mmp240/quizzes/quiz1.html
 
 https://athenag26.github.io/mmp240/quizzes/quiz2.html
+
+https://athenag26.github.io/mmp240/quizzes/quiz3.html
