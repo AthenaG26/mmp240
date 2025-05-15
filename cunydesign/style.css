@@ -44,13 +44,14 @@ nav ul {
 /*top navigation*/
 #top-nav {
     position: absolute;
-    display: none;
+    /*display: none;*/
     text-align: center;
     right: 0;
-    top: 45px;
+    top: -200px;
     z-index: 100;
     border: solid 1px black;
     background-color: rgba(161, 206, 203, 1);
+    transition: top .3s ease-in;
 }
 
 #top-nav a {
