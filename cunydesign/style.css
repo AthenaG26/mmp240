@@ -32,7 +32,7 @@ header {
     justify-content: space-between;
     align-items: center;
     position: relative;
-    background-color: rgb(24, 96, 93);
+    background-color: rgb(66, 107, 58);
 }
 
 nav ul {
@@ -60,7 +60,7 @@ nav ul {
 }
 
 #top-nav a:hover {
-    background-color: #F88F33;
+    background-color: #bbbd5a;
 }
 
 .menuwrap:hover #top-nav {
@@ -83,16 +83,13 @@ nav ul {
 
 /*choose a program*/
 
+
+
 .programs-nav{
     background-color: #ffffff;
     
 }
 
-
-.dropdown ul{
-    background-color: #fff;
-    display: none;
-}
 
 li.dropdown ul{
     display:none;
@@ -107,8 +104,8 @@ li.dropdown:hover ul{
 
 .dropdown a{
     text-decoration: none;
-    padding:15px;
-    background-color: #E03091;
+    padding:15px 10px;
+    background-color: #e4bc3a;
     border-radius: 10px 10px 10px 10px;
     display:block;
     color:#fff;
@@ -116,11 +113,15 @@ li.dropdown:hover ul{
 }
 
 .dropdown ul {
-    background-color: #E03091;
+    background-color: #e4bc3a;
     border-radius: 10px 10px 10px 10px;
     
 }
 
+.dropdown li a:hover {
+    background-color: #85d4e2;
+    border-radius: 10px;
+}
 
 
 /*typography design*/
@@ -160,25 +161,18 @@ article{
 }
 
 .articleone{
-    background-color: #AF86F1;
+    background-color: #675ea8;
     padding:10px;
-    border: solid;
     border-radius: 10px;
+
 }
 
 .articletwo{
-    background-color: #D2D904;
+    background-color: #81ccc0;
     padding:10px;
-    border: solid;
     border-radius: 10px;
 }
 
-.articlethree{
-    background-color: #E03091;
-    padding:10px;
-    border: solid;
-    border-radius: 10px;
-}
 
 .hero{
     border-radius: 10px;
@@ -186,9 +180,8 @@ article{
     color:white;
     margin-bottom: 2em;
     margin-top: 2em;
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 43%, rgba(90, 158, 231, 1) 100%),
-    url("img/hero2.jpg") no-repeat center, 
-    #000;
+    background: url(images/banner.png) no-repeat center/cover;
+background: linear-gradient(90deg,rgba(235, 230, 99, 1) 4%, rgba(87, 199, 133, 0) 39%), url(images/banner.png) no-repeat center/cover;;
 }
 
 .hero p{
@@ -268,7 +261,7 @@ article img{
     display: flex;
     position: static;
     border: none;
-    background-color: rgb(24, 96, 93);
+    background-color: rgb(66, 107, 58);
     align-items: center;
     z-index: 0;
 }
@@ -327,4 +320,13 @@ article img{
     grid-gap:2em;
     
 
+}
+
+.btn{
+    color:#000000;
+    background-color: #eb9920;
+    text-decoration:none;
+    padding: 0.5em 1em;
+    border-radius:10px;
+    display:inline-block;
 }
