@@ -50,10 +50,10 @@ nav ul {
     top: -200px;
     z-index: 100;
     border: solid 1px black;
-    background-color: rgba(161, 206, 203, 1);
+    background-color: #f2cd52;
     transition: top .3s ease-in;
 }
-
+/*rgba(161, 206, 203, 1)*/
 #top-nav a {
     text-decoration: none;
     color: black;
@@ -118,7 +118,7 @@ li.dropdown:hover ul{
 }
 
 .dropdown ul {
-    background-color: #e4bc3a;
+    background-color: #f2cd52;
     border-radius: 2px 2px 2px 2px;
     position: absolute;
     width:100%;
