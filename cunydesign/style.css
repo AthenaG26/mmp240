@@ -100,12 +100,17 @@ li.dropdown:hover ul{
     
 }
 
+.dropdown{
+  width:32%;
+  position:relative;
+}
+
 
 .dropdown a{
-    text-decoration: none;
-    padding:15px 10px;
+  text-decoration: none;
+    padding:15px;
     background-color: #e4bc3a;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 2px 2px 2px 2px;
     display:block;
     color:#fff;
     
@@ -113,14 +118,15 @@ li.dropdown:hover ul{
 
 .dropdown ul {
     background-color: #e4bc3a;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 2px 2px 2px 2px;
     position: absolute;
+    width:100%;
     
 }
 
 .dropdown li a:hover {
     background-color: #85d4e2;
-    border-radius: 10px;
+    border-radius: 2px;
 }
 
 
