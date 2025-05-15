@@ -114,6 +114,7 @@ li.dropdown:hover ul{
 .dropdown ul {
     background-color: #e4bc3a;
     border-radius: 10px 10px 10px 10px;
+    position: absolute;
     
 }
 
