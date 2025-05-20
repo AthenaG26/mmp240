@@ -1,7 +1,7 @@
 body {
     font-family: "Merriweather", serif;
     font-style: normal;
-    background-color: rgb(255, 255, 144);
+    background-color: #ffff90;
 }
 
 .btn{
@@ -15,4 +15,16 @@ body {
 
 nav a:hover{
     background-color: rgb(170, 246, 245);
+}
+
+h1{
+    color: #493A59;
+}
+
+h3{
+    color: #6A3D99;
+}
+
+p{
+    color: #33332A;
 }
